@@ -12,7 +12,7 @@ const AboutPage = () => {
   );
 };
 
-export const Head = () => <Seo title="Home Page" />;
+export const Head = () => <Seo title="About Me" />;
 {
   /* <meta name="description" content="Your description" />; */
 }
